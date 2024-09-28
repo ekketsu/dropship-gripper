@@ -28,7 +28,7 @@
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/ship-grip.git
+   git clone https://github.com/ekketsu/ship-grip.git
    ```
 
 2. Navigate to the project directory:
