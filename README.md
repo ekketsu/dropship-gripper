@@ -1,6 +1,6 @@
-# Dropship-Gripper
+# Ship-Grip
 
-**dropship-gripper** is an automated tool designed to collect product information from e-commerce website saves it to an Excel file.
+**ship-grip** is an automated tool designed to collect product information from e-commerce website saves it to an Excel file.
 ## Features
 
 - Collects product information from website, including:
@@ -28,12 +28,12 @@
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/dropship-gripper.git
+   git clone https://github.com/your-username/ship-grip.git
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd dropship-gripper
+   cd ship-grip
    ```
 
 3. Install the dependencies using `requirements.txt`:
@@ -45,7 +45,7 @@
 
 To run the script, use the following command:
 ```bash
-python your_script.py --max-products 60 --url "https://www.aliexpress.com/category/100003109/women-clothing.html" --output "products.xlsx"
+python3 ship-grip.py
 ```
 
 This will collect up to 60 new products from the specified URL and save the results in the file `products.xlsx`.
@@ -59,7 +59,7 @@ This will collect up to 60 new products from the specified URL and save the resu
 
 Example:
 ```bash
-python your_script.py --max-products 100 --url "https://www.aliexpress.com/category/100003109/women-clothing.html" --output "new_file.xlsx" --scroll-pause 1.5
+python ship-grip.py --max-products 100 --url "https://www.aliexpress.com/category/100003109/women-clothing.html" --output "new_file.xlsx" --scroll-pause 1.5
 ```
 
 ## License
