@@ -65,4 +65,3 @@ python your_script.py --max-products 100 --url "https://www.aliexpress.com/categ
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-```
