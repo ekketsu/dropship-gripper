@@ -59,7 +59,7 @@ This will collect up to 60 new products from the specified URL and save the resu
 
 Example:
 ```bash
-python ship-grip.py --max-products 100 --url "https://www.aliexpress.com/category/100003109/women-clothing.html" --output "new_file.xlsx" --scroll-pause 1.5
+python3 ship-grip.py --max-products 100 --url "https://www.aliexpress.com/category/100003109/women-clothing.html" --output "new_file.xlsx" --scroll-pause 1.5
 ```
 
 ## License
