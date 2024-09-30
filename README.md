@@ -22,7 +22,7 @@
 
 - Python 3.x
 - Google Chrome (for Selenium)
-- [ChromeDriver](https://sites.google.com/a/chromium.org/chromedriver/) (automatically installed with `webdriver-manager`)
+- ChromeDriver (automatically installed with `webdriver-manager`)
 
 ## Installation
 
